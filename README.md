@@ -13,3 +13,8 @@ fis3-hook-commonjs
 fis3-postpackager-loader 
 
 fis-parser-less(optional)
+
+### debug测试
+
+$ fis3 release -cwL
+$ fis3 server start 
